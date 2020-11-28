@@ -1,6 +1,6 @@
 #include "Arduino.h"
 #define LED_BUILTIN 13
-// オンボードのLEDを点滅
+// オンボードのLEDを点滅させる
 void setup()
 {
 	pinMode(LED_BUILTIN, OUTPUT);
